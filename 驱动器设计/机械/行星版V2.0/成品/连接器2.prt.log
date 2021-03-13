@@ -1,0 +1,114 @@
+﻿----------------------------------------------------------------------------
+SUMMARY-            Translator Settings
+----------------------------------------------------------------------------
+UNITS                                              = METRIC                                            
+MAX_SPLINE_DEGREE                                  = 3                                                 
+UGI_IMPORT_POLYLINE                                = SPLINE                                            
+UGI_DIM_IMPORT_FLAG                                = GROUP                                             
+FILL_MODE                                          = OFF                                               
+IMPORT_ACAD_MODEL_DATA                             = YES                                               
+IMPORT_ACAD_MODEL_DATA_TO                          = MODELING                                          
+IMPORT_ACAD_LAYOUTS                                = YES                                               
+IMPORT_ACAD_LAYOUTS_TO                             = IMPORTED_VIEW                                     
+IMPORT_ACAD_CURVES_ON_SKETCH                       = NO                                                
+AVOID_NX_TEMPLATE_PART_LAYERS                      = YES                                               
+SET_NX_LAYER_NUMBER_FROM_PREFIX                    = NO                                                
+SKIP_UNREFERENCED_ACAD_LAYERS                      = YES                                               
+IMPORT_UNSELECTED_ACAD_LAYERS                      = NO                                                
+IMPORT_UNSELECTED_ACAD_LAYERS_TO                   = 256                                               
+NON_NUMERIC_LAYER_SORTING_CRITERIA                 = ALPHABETICAL                                      
+-------------------------------End------------------------------------------
+
+----------------------------------------------------------------------------
+SUMMARY-            ACAD and NX Layer Mapping Info
+----------------------------------------------------------------------------
+ACAD Layer                                        NX Layer                                          
+------------                                      -----------                                       
+0                                                 2                                                 
+1                                                 1                                                 
+61                                                61                                                
+-------------------------------End------------------------------------------
+
+----------------------------------------------------------------------------
+SUMMARY-            ACAD and NX Linefonts Mapping Info
+----------------------------------------------------------------------------
+ACAD Linefont                                     NX Linefont                                       
+------------                                      -----------                                       
+CONTINUOUS                                        Solid                                             
+CENTER                                            Centerline                                        
+DASHDOT                                           Dotted Dashed                                     
+DASHED                                            Dashed                                            
+DOT                                               Dotted                                            
+PHANTOM                                           Phantom                                           
+-------------------------------End------------------------------------------
+
+----------------------------------------------------------------------------
+SUMMARY-            ACAD Text Fonts And NX Text Fonts Info
+----------------------------------------------------------------------------
+ACAD TextFont                                     NX TextFont                                       
+------------                                      -----------                                       
+txt                                               Arial Unicode MS                                  
+-------------------------------End------------------------------------------
+
+----------------------------------------------------------------------------
+SUMMARY-            ACAD and NX Hatch Pattern Mapping Info
+----------------------------------------------------------------------------
+ACAD Hatch Pattern                                NX Hatch Pattern                                  
+------------                                      -----------                                       
+
+-None-
+-------------------------------End------------------------------------------
+
+INFO-
+INFO-		AutoCAD 2004 to Unigraphics Version NX V10.0
+INFO-		4.00
+INFO-
+INFO-		Running DXFTOUG Translator .....
+INFO-
+INFO-		Start of Translation: Sat Nov 07 09:55:10 2020
+INFO-
+STATUS-		Converting E:\开发库\无刷四足机器人\驱动器设计\机械\行星版V1.0\成品\连接器2.prt.dwg
+STATUS-
+----------------------------------------------------------------------------
+SUMMARY-                     Warnings
+----------------------------------------------------------------------------
+1. Model View name Trimetric is changed to Trimetric1.
+-------------------------------End------------------------------------------
+
+SUMMARY-
+SUMMARY-	Summary of AutoCAD Input Entities
+SUMMARY-	For AutoCAD File: E:\开发库\无刷四足机器人\驱动器设计\机械\行星版V1.0\成品\连接器2.prt.dwg
+SUMMARY-SUMMARY-	------------------------------------------------------------------
+SUMMARY-	Entity Type					Count
+SUMMARY-	------------------------------------------------------------------
+SUMMARY-	Circle ...................................:	16
+SUMMARY-	Spline ...................................:	4
+SUMMARY-	Point ....................................:	1
+SUMMARY-	Line .....................................:	1
+SUMMARY-	Layout ...................................:	1
+SUMMARY-	------------------------------------------------------------------
+SUMMARY-	Total ....................................:	23
+SUMMARY-	------------------------------------------------------------------
+SUMMARY-
+STATUS-
+INFO-
+INFO-		Writing File: E:\开发库\无刷四足机器人\驱动器设计\机械\行星版V1.0\成品\连接器2.prt_dwg.prt
+SUMMARY-	Summary of UG Output Entities
+SUMMARY-	------------------------------------------------------------------
+SUMMARY-	Entity Type					Count
+SUMMARY-	------------------------------------------------------------------
+SUMMARY-	Line .....................................:	1
+SUMMARY-	Point ....................................:	1
+SUMMARY-	Circle ......................................:	16
+SUMMARY-	Spline ...................................:	4
+SUMMARY-	Group ....................................:	1
+SUMMARY-	View .....................................:	1
+SUMMARY-	Layout ...................................:	1
+SUMMARY-	------------------------------------------------------------------
+SUMMARY-	Total ....................................:	25
+SUMMARY-	------------------------------------------------------------------
+SUMMARY-
+INFO-
+INFO-		End of Translation: Sat Nov 07 09:55:10 2020
+INFO-		Translation CPU time: 0 m, 1 s
+INFO-

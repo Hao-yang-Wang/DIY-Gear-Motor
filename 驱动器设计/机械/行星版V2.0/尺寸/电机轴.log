@@ -1,0 +1,64 @@
+﻿INFO-
+INFO-		Unigraphics Version NX V10.0 to AutoCAD 2004
+INFO-		
+INFO-
+INFO-		Running UGTODWG Translator .....
+INFO-
+INFO-		Start of Translation: Thu Dec 10 13:49:45 2020
+INFO-
+STATUS-		Converting E:\开发库\无刷四足机器人\驱动器设计\机械\行星版V1.0\电机轴.prt
+STATUS-
+----------------------------------------------------------------------------
+SUMMARY-                     Warnings
+----------------------------------------------------------------------------
+1. Font file <simplex.shx> not found.
+   For text translation improvement, set environment variable DXFDWG_FONTS_DIR to directory contaning font files
+   OR place this font file at location pointed to by DXFDWG_DIR.
+2. Font file <simplex> not found.
+   For text translation improvement, set environment variable DXFDWG_FONTS_DIR to directory contaning font files
+   OR place this font file at location pointed to by DXFDWG_DIR.
+3. Font file <txt.shx> not found.
+   For text translation improvement, set environment variable DXFDWG_FONTS_DIR to directory contaning font files
+   OR place this font file at location pointed to by DXFDWG_DIR.
+-------------------------------End------------------------------------------
+
+SUMMARY-
+SUMMARY-	Summary of Unigraphics Input Entities
+SUMMARY-	For Unigraphics File: E:\开发库\无刷四足机器人\驱动器设计\机械\行星版V1.0\电机轴.prt
+SUMMARY-	------------------------------------------------------------------
+SUMMARY-	Entity Type					Count
+SUMMARY-	------------------------------------------------------------------
+SUMMARY-	Line .....................................:	51
+SUMMARY-	Point ....................................:	1
+SUMMARY-	Arc ......................................:	6
+SUMMARY-	Circle ......................................:	28
+SUMMARY-	Group ....................................:	4
+SUMMARY-	Dimension ................................:	6
+SUMMARY-	Solid Edges............................:	11
+SUMMARY-	------------------------------------------------------------------
+SUMMARY-	Total ....................................:	107
+SUMMARY-	------------------------------------------------------------------
+SUMMARY-
+STATUS-
+INFO-
+INFO-		Writing File: E:\开发库\无刷四足机器人\驱动器设计\机械\行星版V1.0\尺寸\电机轴.dwg
+SUMMARY-	Summary of AutoCAD Output Entities
+SUMMARY-	------------------------------------------------------------------
+SUMMARY-	Entity Type					Count
+SUMMARY-	------------------------------------------------------------------
+SUMMARY-	Arc ......................................:	6
+SUMMARY-	Circle ...................................:	28
+SUMMARY-	Dimension ................................:	6
+SUMMARY-	Point ....................................:	1
+SUMMARY-	Line .....................................:	73
+SUMMARY-	Solid 2D .................................:	10
+SUMMARY-	Multiline Text ...........................:	15
+SUMMARY-	View Port ................................:	5
+SUMMARY-	Layout ...................................:	6
+SUMMARY-	------------------------------------------------------------------
+SUMMARY-	Total ....................................:	150
+SUMMARY-	------------------------------------------------------------------
+SUMMARY-
+INFO-
+INFO-		End of Translation: Thu Dec 10 13:49:46 2020
+INFO-		Translation CPU time: 0 m, 1 sINFO-

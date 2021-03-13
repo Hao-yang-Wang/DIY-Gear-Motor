@@ -1,0 +1,52 @@
+﻿INFO-
+INFO-		Unigraphics Version NX V10.0 to AutoCAD 2004
+INFO-		
+INFO-
+INFO-		Running UGTODWG Translator .....
+INFO-
+INFO-		Start of Translation: Sat Nov 07 09:49:28 2020
+INFO-
+STATUS-		Converting E:\开发库\无刷四足机器人\驱动器设计\机械\行星版V1.0\连接器2.prt
+STATUS-
+----------------------------------------------------------------------------
+SUMMARY-                     Warnings
+----------------------------------------------------------------------------
+1. Font file <txt.shx> not found.
+   For text translation improvement, set environment variable DXFDWG_FONTS_DIR to directory contaning font files
+   OR place this font file at location pointed to by DXFDWG_DIR.
+-------------------------------End------------------------------------------
+
+SUMMARY-
+SUMMARY-	Summary of Unigraphics Input Entities
+SUMMARY-	For Unigraphics File: E:\开发库\无刷四足机器人\驱动器设计\机械\行星版V1.0\连接器2.prt
+SUMMARY-	------------------------------------------------------------------
+SUMMARY-	Entity Type					Count
+SUMMARY-	------------------------------------------------------------------
+SUMMARY-	Line .....................................:	1
+SUMMARY-	Point ....................................:	1
+SUMMARY-	Circle ......................................:	16
+SUMMARY-	Spline ...................................:	4
+SUMMARY-	Solid Edges............................:	14
+SUMMARY-	------------------------------------------------------------------
+SUMMARY-	Total ....................................:	36
+SUMMARY-	------------------------------------------------------------------
+SUMMARY-
+STATUS-
+INFO-
+INFO-		Writing File: E:\开发库\无刷四足机器人\驱体设计\成品\aaa.dwg
+SUMMARY-	Summary of AutoCAD Output Entities
+SUMMARY-	------------------------------------------------------------------
+SUMMARY-	Entity Type					Count
+SUMMARY-	------------------------------------------------------------------
+SUMMARY-	Circle ...................................:	16
+SUMMARY-	Spline ...................................:	4
+SUMMARY-	Point ....................................:	1
+SUMMARY-	Line .....................................:	1
+SUMMARY-	Layout ...................................:	6
+SUMMARY-	------------------------------------------------------------------
+SUMMARY-	Total ....................................:	28
+SUMMARY-	------------------------------------------------------------------
+SUMMARY-
+INFO-
+INFO-		End of Translation: Sat Nov 07 09:49:28 2020
+INFO-		Translation CPU time: 0 m, 0 sINFO-
